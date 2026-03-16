@@ -1,4 +1,4 @@
-package com.example.restservice.Entity;
+package com.example.spring.Entity;
 
 public record Greeting(long id, String content) {
 }
